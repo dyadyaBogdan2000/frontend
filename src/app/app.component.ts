@@ -8,7 +8,7 @@ import {User, UsersService} from './users.service'
 })
 export class AppComponent {
 
-  users: User[]
+  users: Object
   userName = ''
   userEmail = ''
 
